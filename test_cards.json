@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "id": "gde1",
+      "color": "green",
+      "shape": "diamond",
+      "pattern": "empty",
+      "number": 1,
+      "image": "https://preview.ibb.co/dQfrUQ/gde1.gif"
+    },
+    {
+      "id": "gde2",
+      "color": "green",
+      "shape": "diamond",
+      "pattern": "empty",
+      "number": 2,
+      "image": "https://preview.ibb.co/f4C5pQ/gde2.gif"
+    },
+    {
+      "id": "gde3",
+      "color": "green",
+      "shape": "diamond",
+      "pattern": "empty",
+      "number": 3,
+      "image": "https://preview.ibb.co/nnzkpQ/gde3.gif"
+    }
+  ]
+}
